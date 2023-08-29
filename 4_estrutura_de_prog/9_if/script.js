@@ -1,4 +1,4 @@
-// Função console.log
+// Condicional IF 
 
 let idade = 19;
 let nome = "Pedro";

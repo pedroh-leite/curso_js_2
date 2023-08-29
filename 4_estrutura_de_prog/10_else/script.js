@@ -1,4 +1,4 @@
-// Função console.log
+// Condicional else
 
 let idade = 20;
 let velocidade = 120;
